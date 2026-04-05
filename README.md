@@ -6,7 +6,7 @@ This project aims to extract insights from Restaurant dataset using sophisticate
 
 ## Dataset
 
-[Swiggy SQL Dataset](https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view)
+[SQL Dataset](https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view)
 
 The dataset includes information about customers, restaurants, orders, ratings, and delivery partners.
 
